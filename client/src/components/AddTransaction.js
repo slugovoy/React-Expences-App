@@ -16,8 +16,10 @@ export const AddTransaction = () => {
       text,
       amount: +amount
     };
-// TODO - cleanup the input fiels after submit
+
     addTransaction(newTransaction);
+    setText("");
+
   };
 
   return (
