@@ -2,6 +2,7 @@
 
 React-Expenses-App is an application  that gives the users  a fast and easy way to track their money and allows them to access that information anytime. 
 
+
 Checkout the [Deployed app here](https://expense-tracker11.herokuapp.com/).
 
 ## Table of Contents
@@ -67,6 +68,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+### Inspired by `bradtraversy`
 
 ## Questions
 
