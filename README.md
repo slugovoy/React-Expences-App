@@ -1,5 +1,3 @@
-Link to deployed application [Link](https://expense-tracker11.herokuapp.com/)
-
 # React-Expenses-App
 
 React-Expenses-App is an application  that gives the users  a fast and easy way to track their money and allows them to access that information anytime. 
@@ -24,7 +22,7 @@ You don't need to install it, just simply go to this [Link](https://expense-trac
 
 * Gif:
 
-![Demo](./public/EmployeeDir.gif)
+![Demo](./client/public/ExpensesTracker.gif)
 
 
 * Description:
